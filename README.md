@@ -17,3 +17,4 @@ The website is accessible via the EC2 public IP while the instance is running.
 
 ## Author
 Ashwin Poojary
+
